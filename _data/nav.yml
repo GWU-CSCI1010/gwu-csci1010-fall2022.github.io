@@ -1,0 +1,24 @@
+# These pages appear along the navbar at the top
+- title: Schedule
+  href: schedule.html
+
+#- title: Project Gallery
+#  href: finalprojects.html
+
+- title: Final Project
+  href: assignments/raspberrypi-final.html
+
+- title: Syllabus
+  href: syllabus.html
+
+- title: Labs & Lectures
+  href: list/labs.html
+
+- title: Instruction Team
+  href: contact.html
+
+- title: Brownie Points
+  href: brownie-points.html
+
+# - title: Assignments
+#   href: list/assignments.html
