@@ -5,15 +5,15 @@ title: Website Home
 narrow: true
 ---
 
-##### Welcome to CS 1010 / APSC 1001 in Fall 2021, the best engineering orientation class this side of the (in-person) Potomac.
+##### Welcome to CS 1010 in Fall 2022, the best engineering orientation class this side of the (in-person) Potomac.
 
-Got too many ~things~ to keep track of for online classes? Not to worry, this page is your one-stop shop for CS 1010 and APSC 1001.
-- Below is a link to the (virtual) course from Fall 2020 to get you excited!
-    - Link: [APSC1001 in Fall 2020](https://gwu-apsc1001.github.io/apsc1001-fall2020/finalprojects.html) 
+Got too many ~things~ to keep track of for online classes? Not to worry, this page is your one-stop shop for CS 1010.
+- Below is a link to the course from Fall 2021 to get you excited!
+    - Link: [APSC1001 in Fall 2021](https://gwu-apsc1001.github.io/) 
 
-### Important Links for Fall 2021
+### Important Links for Fall 2022
 - **[Slack group]**: Join the course's **[Slack Workspace](https://apsc1001seasgwu.slack.com/)**. Here's where you'll hear class announcements, get questions answered, or just get to know your classmates.
-    - Link: [https://apsc1001seasgwu.slack.com/](https://apsc1001seasgwu.slack.com/)
+    - Link: [{{ site.slack }}]({{ site.slack }}){:target="_blank"}
     - *NOTE*: You will receive an email invitation. Please contact the [instruction team](contact.html) if you need assistance!
 - **[Blackboard]**: Class will have access to *Blackboard Collaborate Ultra*, available through your **[GW Blackboard Portal](https://blackboard.gwu.edu/)**.
     - Link: [https://blackboard.gwu.edu/](https://blackboard.gwu.edu/)
@@ -27,10 +27,11 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
     - Use your *gwmail.gwu.edu* email for this account. 
     - *NOTE:* You will need this to collaborate with your group.
     - Follow our instructions to create an account on <a href="{{ site.baseurl }}/files/DeepNote_Onboarding_Students.pdf" target="_blank">DeepNote - a cloud-based collaboration platform for Python code</a> 
+<!---
 - **[Vensim system modeling software}**
     - Download and install **Vensim** using the link, <a href="https://vensim.com/free-download/" target="_blank">https://vensim.com/free-download/</a>
     - <a href="{{ site.baseurl }}/files/vensim_install.pdf" target="_blank"> Installation instructions </a>
-
+--->
 
 ### Class Preview
 
