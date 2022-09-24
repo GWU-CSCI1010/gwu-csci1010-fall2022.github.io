@@ -9,29 +9,26 @@ narrow: true
 
 Got too many ~things~ to keep track of for online classes? Not to worry, this page is your one-stop shop for CS 1010.
 - Below is a link to the course from Fall 2021 to get you excited!
-    - Link: [APSC1001 in Fall 2021](https://gwu-apsc1001.github.io/) 
+    - Link: <a href="https://gwu-apsc1001.github.io/" target="_blank"> APSC1001 in Fall 2021 </a>
+    
 
 ### Important Links for Fall 2022
 - **[Slack group]**: Join the course's **[Slack Workspace](https://apsc1001seasgwu.slack.com/)**. Here's where you'll hear class announcements, get questions answered, or just get to know your classmates.
-    - Link: [{{ site.slack }}]({{ site.slack }}){:target="_blank"}
+    - Link: <a href="{{ site.slack }}" target="_blank"> {{ site.slack }} </a>
     - *NOTE*: You will receive an email invitation. Please contact the [instruction team](contact.html) if you need assistance!
 - **[Blackboard]**: Class will have access to *Blackboard Collaborate Ultra*, available through your **[GW Blackboard Portal](https://blackboard.gwu.edu/)**.
-    - Link: [https://blackboard.gwu.edu/](https://blackboard.gwu.edu/)
+    - Link: <a href="https://blackboard.gwu.edu/" target="_blank"> https://blackboard.gwu.edu/ </a>
 - **[GW SEAS VPN]**: Download the **[GW SEAS VPN](https://www.gwu.edu/~virtual/downloads/anyconnect.cfm)**
     - <a href="{{ site.baseurl }}/files/gwu_vpn.pdf" target="_blank"> Installation instructions </a>
     - *NOTE* that you only have to install this once! After the VPN is installed, all you have to do is connect
-- **[Raspberry Pi 3B+ code repository]**: Public git repository can be found **[here](https://github.com/GWU-APSC1001/Fall2021)** 
-    - **Terminal command to download:** *git clone https://github.com/GWU-APSC1001/Fall2021.git*
+- **[Raspberry Pi 3B+ code repository]**: Public git repository can be found **<a href="{{ site.github }}" target="_blank"> here </a>** 
+    - **Terminal command to download:** *git clone https://github.com/GWU-CSCI1010/Fall2022.git*
     - *NOTE:* Codes will be updated as the course progresses.
 - **[Python programming]**: Sign up for a free account on **[DeepNote for Python programming](https://deepnote.com/)** 
     - Use your *gwmail.gwu.edu* email for this account. 
     - *NOTE:* You will need this to collaborate with your group.
     - Follow our instructions to create an account on <a href="{{ site.baseurl }}/files/DeepNote_Onboarding_Students.pdf" target="_blank">DeepNote - a cloud-based collaboration platform for Python code</a> 
-<!---
-- **[Vensim system modeling software}**
-    - Download and install **Vensim** using the link, <a href="https://vensim.com/free-download/" target="_blank">https://vensim.com/free-download/</a>
-    - <a href="{{ site.baseurl }}/files/vensim_install.pdf" target="_blank"> Installation instructions </a>
---->
+
 
 ### Class Preview
 
