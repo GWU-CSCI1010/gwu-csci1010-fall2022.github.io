@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 # Config for your profile.
 title:            CS1010
 name:             CS1010 Class Website
-avatar:           /theme/img/avatar.png
+avatar:           /theme/img/CS1010.png
 
 # Global parameters for links
 slack:            https://cs1010seasgwu.slack.com/
