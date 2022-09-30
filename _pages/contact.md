@@ -9,10 +9,7 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 
 ### Instructor
 ##### <a href="https://www.linkedin.com/in/kartik-bulusu-1295261/" target="_blank">Professor Kartik Bulusu </a>
-- Dr. Kartik V. Bulusu is an Associate Research Professor in the Department of Mechanical and Aerospace Engineering (MAE) at The George Washington University (GWU). 
-His research work entails human health and sustainable energy with focus on biofluid mechanics, polymer rheology, low-cost energy technologies and applications of wavelet transforms. 
-Dr. Bulusu is currently developing low-cost ejector technologies refrigeration in disaster-prone regions. 
-In his free time, he is loves to tinker with electronics and design low-cost experiments for research and education. 
+- Dr. Kartik V. Bulusu is an Associate Professor of Practice in the Department of Computer Science (CS) and Associate Research Professor in the Department of Mechanical and Aerospace Engineering (MAE). His research work entails human health and sustainable energy with focus on biofluid mechanics, polymer rheology, low-cost energy technologies and applications of wavelet transforms. Dr. Bulusu has been developing low-cost ejector technologies refrigeration in disaster-prone regions and humanitarian needs. He is also working on AI-on-the-edge applications using low-power devices. In his free time, he is loves to tinker with electronics and design low-cost experiments for research and education.
 - **Campus Address:** SEH 3640
 - **E-mail:** bulusu@gwu.edu
 - **Office hours:** On-demand (please reach out via email or Slack!)
