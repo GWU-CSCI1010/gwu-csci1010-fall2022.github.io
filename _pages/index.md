@@ -27,7 +27,7 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
 - **[Python programming]**: Sign up for a free account on **[DeepNote for Python programming](https://deepnote.com/)** 
     - Use your *gwmail.gwu.edu* email for this account. 
     - *NOTE:* You will need this to collaborate with your group.
-    - Follow our instructions to create an account on <a href="{{ site.baseurl }}/files/DeepNote_Onboarding_Students.pdf" target="_blank">DeepNote - a cloud-based collaboration platform for Python code</a> 
+    - **Follow our instructions to create an account on** <a href="{{ site.baseurl }}/files/DeepNote_Onboarding_GWUFall2022.pdf" target="_blank">**DeepNote - a cloud-based collaboration platform for Python code**</a>
 
 
 ### Class Preview

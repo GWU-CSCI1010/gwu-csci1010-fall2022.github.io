@@ -2,14 +2,14 @@
 title: Final Raspberry Pi Group Project
 narrow: true
 show_profile: true
-due_date: November 16, 2021, 11:59 PM EST
+due_date: December 5, 2022, 11:59 PM EST
 ---
 
-Your final project for CS1010/APSC 1001 is to work with your group and design an appplication that meets one of our project specs. 
+Your final project for CS1010 is to work with your group and design an appplication that meets one of our project specs. 
 
 Your group has the option of selecting one project based on the in-class Raspberry Pi or the Python demonstrations.
 
-**Project Specs can be found here:** <a href="{{ site.baseurl }}/files/FInal_RaspberryPi_Python_Project-Descriptions.pdf" target="_blank">View PDF</a> 
+**Project Specs can be found here:** <a href="{{ site.baseurl }}/files/Final_RaspberryPi_Python_Project-Descriptions_2022.pdf" target="_blank">View PDF</a> 
 
 <hr>
 
@@ -22,7 +22,7 @@ Your group has the option of selecting one project based on the in-class Raspber
 
 <!-- Here are some handy project templates you may want at some point. -->
 <!-- - [Final PowerPoint Template](/files/Final_Project_APSC1.pptx) -->
-- [GIT Code Repo](https://github.com/GWU-APSC1001/Fall2021) (Codes created for in-class demonstrations)
+- [GIT Code Repo]({{site.github}}) (Codes created for in-class demonstrations)
 - [Python lecture/demo and homework files](/list/labs.html) Python lecture/demo and homework files are already on your DeepNote project pages for your review and reference
 - [Covid Data for Project 3](/list/covid-data.html)
     - Data source: [Our World in Data](https://ourworldindata.org/coronavirus)
@@ -35,7 +35,7 @@ Your group has the option of selecting one project based on the in-class Raspber
 - When your team is finished with the project, submit it here! 
 **Group project submission Link:** <a href="https://docs.google.com/forms/d/e/1FAIpQLScUggkbSIUup4jBr-ZugkM74gv--JVHpIPAhVK6XxChOOzltg/viewform?usp=sf_link" target="_blank">Google Form</a>
 
-Submit by **November 16, 2021**.
+Submit by **December 5, 2022**.
 
 **There will be no exemptions or extensions.**
 
