@@ -65,6 +65,13 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 - **Office hours:** 
 - **Location:** 
 
+##### Sameen Ahmad
+- Sameen is a sophomore majoring in Computer Science. She is from the DMV area (Arlington, VA) and is interested in cybersecurity and artificial intelligence. Ever since Sameen developed her passion for computer science, it has been her goal to combine it with social change. Sameen is a committee member of the GW Computer Science Justice, Equity, Diversity, and Inclusion (<a href="https://www.cs.seas.gwu.edu/justice-equity-diversity-and-inclusion-jedi-committee" target="_blank">GWCS JEDI</a>) Committee, Co-President for Girls Who Code College Loop at GW, and the Recruitment and Mentorship Director of WiCS (Women in Computer Science). She is also a member of the Society of Women Engineers (SWE) and Women in Cybersecurity (WiCyS). She enjoys spending time with her family and friends in her free time. Sameen can not wait to meet everyone!
+- **E-mail:** sameen_ahmad@gwu.edu
+- **Office hours:** 11 AM - 12 PM
+- **Location:** SEH 4th Floor
+
+
 ##### Talia Novack
 - Talia is a sophomore studying Computer Science. She is originally from Phoenix, Arizona and enjoys going on hikes in the desert and here in Virginia in the mountains.  Talia is interested in AI and quantum computing. She enjoys meeting new people and working as a part of a team. Along with classwork, Talia is also involved with GW’s radio station, WRGW, and serves as the assistant programming director on the board. She cannot wait to meet everyone and start this class.
 - **E-mail:** talianovack@gwu.edu

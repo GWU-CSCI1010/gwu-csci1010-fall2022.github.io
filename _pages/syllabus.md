@@ -4,7 +4,7 @@ permalink: syllabus.html
 narrow: true
 title: Syllabus
 ---
-<a href="{{ site.baseurl }}/files/CS1010_Fall2022_Syllabus_09282022.pdf" target="_blank">
+<a href="{{ site.baseurl }}/files/CS1010_Fall2022_Syllabus_10052022.pdf" target="_blank">
     PDF Version
 </a>
 
@@ -64,6 +64,16 @@ List of what will be counted and percentages. For example:
 - Python programming and other Homework 30%
 - Projects 60%
 - There is no required final exam.
+
+### Classroom Policies and Student Responsibilities
+This course requires a combination of individual and group work entailing hands-on activities andfrequent interactions with the instructional team. The lectures, labs and office hours are available for interacting with your group and the instruction team. In addition, a course messaging platform (Slack) is made available for the students to interact in groups and with the instruction team asynchronously. We ask that all students adhere to the course policies throughout the duration of the semester.
+
+- **Be respectful:** Listen to the instructors. Keep an open mind to the course material presented. Limit the use of personal devices. Be aware that you are working in a group.
+- **Be responsible:** Arrive on time. Submit the course deliverables on time. Help your team members
+- **Be a communicator:** Observe, Ask questions and Try out the materials presented during the course. Communicate with your team effectively and politely.
+- **Be a problem solver:** Explore options to complete hands-on tasks. Make your own notes. Stay positive about the course outcomes.
+#### Justice, Equity, Diversity, Inclusion (JEDI) statement
+The instruction team intends to students from all diverse backgrounds and perspectives by this course, The diversity that the students bring to this class be viewed as a resource, strength, and benefit. The course materials and activities presented in this course are intended to be respectful of: age, race, ethnicity, country of origin, language, religion, spiritual practice, sexual orientation, gender identity or expression, introversion/extroversion personality dimensions, and socioeconomic and mental/physical status. Please let the main instructor know ways to improve the effectiveness of the course. See <a href="https://www.cs.seas.gwu.edu/justice-equity-diversity-and-inclusion-resources" target="_blank">JEDI resources</a> for student resources.
 
 ### University Policies
 #### Use of Electronic Course Materials and Class Recordings
