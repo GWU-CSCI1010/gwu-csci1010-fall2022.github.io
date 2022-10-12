@@ -21,8 +21,8 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 ##### Marshall Thompson
 - Marshall Thompson is a graduate student studying Computer Science, who received their bachelor’s degree in the same field in 2022. He is interested in machine learning, and in particular computer vision. From sophomore to senior year, Marshall worked in Dr. Pless’ computer vision lab on the TraffickCam project – a database and image recognition tool used to combat sex trafficking. Beyond academics, Marshall is currently working part-time at the technology firm Leidos as a software developer. He is also a member of the GW Men’s Rowing team.
 - **E-mail:** mdt_@gwmail.gwu.edu
-- **Office hours:** 
-- **Location:** 
+- **Office hours:** Monday, Wednesday 1-2pm OR Tuesday, Thursday 1-2pm
+- **Location:** TBD
 
 ##### Matt Dionne
 - Matt Dionne is originally from Massachusetts and is a graduate student studying Data Analytics. He graduated from GW with a degree in Mechanical Engineering and a minor in Mathematics in the spring. During his time at GW, Matt was an active member of the GW Baja team, he studied abroad in Dublin, Ireland, and worked with Dr. Wei of the MAE department on his NASA eVTOL research projects. During the last two summers, Matt has worked as an engineering intern at a small fiber optic manufacturing company near home. Matt enjoys going for runs, skiing during the winter, watching Formula 1 racing, and is a big New England Patriots Fan. 
@@ -46,8 +46,8 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 ##### Fred Noubieptie
 - Fred is a sophomore studying Computer Science, hoping to minor in physics. Fred is originally from Cameroon. He is interested in Quantum Computing because he believes it's the feature and it can be used to help so many people around the world. Fred likes running, watching anime and doing anything and everything. Fred is part of Steel bridge, DBF, Rocket and EWOB
 - **E-mail:** rnoubieptie40@gwmail.gwu.edu
-- **Office hours:** 
-- **Location:** 
+- **Office hours:** Thursday 10-11am or 6-7pm,  OR Sunday 2-3pm
+- **Location:** TBD
 
 ##### Joshua Rizika
 - Joshua Rizika is a 4th year student studying Computer Science.  He grew up in Brookline, Massachusetts and attended a boarding school in New Hampshire.  He spent the first two years at GW pursuing a Mechanical Engineering degree but soon realized that his interests were more geared towards computer science.  Over the past summer he worked as an intern at MaxPayload, a consulting firm that specializes in financial and market analysis for a variety of industry leaders.  Josh enjoys Squash, Skiing, Biking, Doctor Who, and Minecraft.  
@@ -70,12 +70,12 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 ##### Sameen Ahmad
 - Sameen is a sophomore majoring in Computer Science. She is from the DMV area (Arlington, VA) and is interested in cybersecurity and artificial intelligence. Ever since Sameen developed her passion for computer science, it has been her goal to combine it with social change. Sameen is a committee member of the GW Computer Science Justice, Equity, Diversity, and Inclusion (<a href="https://www.cs.seas.gwu.edu/justice-equity-diversity-and-inclusion-jedi-committee" target="_blank">GWCS JEDI</a>) Committee, Co-President for Girls Who Code College Loop at GW, and the Recruitment and Mentorship Director of WiCS (Women in Computer Science). She is also a member of the Society of Women Engineers (SWE) and Women in Cybersecurity (WiCyS). She enjoys spending time with her family and friends in her free time. Sameen can not wait to meet everyone!
 - **E-mail:** sameen_ahmad@gwu.edu
-- **Office hours:** TBD
-- **Location:** SEH 4th Floor
+- **Office hours:** Wednesday 11am-12-pm
+- **Location:** SEH 3rd Floor
 
 
 ##### Talia Novack
 - Talia is a sophomore studying Computer Science. She is originally from Phoenix, Arizona and enjoys going on hikes in the desert and here in Virginia in the mountains.  Talia is interested in AI and quantum computing. She enjoys meeting new people and working as a part of a team. Along with classwork, Talia is also involved with GW’s radio station, WRGW, and serves as the assistant programming director on the board. She cannot wait to meet everyone and start this class.
 - **E-mail:** talianovack@gwu.edu
-- **Office hours:** Wednesday 5:30-6:30pm
+- **Office hours:** Wednesday 5:30-6:30pm OR Sunday 3-4pm
 - **Location:** TBD
