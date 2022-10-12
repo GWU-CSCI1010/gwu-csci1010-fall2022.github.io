@@ -18,12 +18,12 @@ title: Course Schedule
       <td style="text-align: left">Week 1 [10/14/2022]</td>
       <td style="text-align: left"> 
         <ul>
-          <li>Overview of CS1010 by <b>Prof. Kartik Bulusu</b></li>
-          <li>Introduction to Computer Science Department by <b>Prof. Robert Pless</b></li>
-          <li>Introduction to Raspberry Pi and Python programming by <b>Prof. Kartik Bulusu</b></li>
+          <li>Overview of CS1010 by <b><a href="https://www.linkedin.com/in/kartik-bulusu-1295261/" target="_blank">Prof. Kartik Bulusu</a></b></li>
+          <li>Introduction to Computer Science Department by <b><a href="http://www2.seas.gwu.edu/~pless/index.php" target="_blank">Prof. Robert Pless</a></b></li>
+          <li>Introduction to Raspberry Pi and Python programming by <b><a href="https://www.linkedin.com/in/kartik-bulusu-1295261/" target="_blank">Prof. Kartik Bulusu</a></b></li>
         </ul> 
       </td>
-      <td style="text-align: left">Python programming using DeepNote; Intro to Group and Guided-Projects; In-class Raspberry Pi Lab (Blinking LEDs); <b>Working Style Workout survey</b></td>
+      <td style="text-align: left">Python programming using DeepNote; Intro to Group and Guided-Projects; In-class Raspberry Pi Lab (Blinking LEDs); <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSe26j1zFRpaYYa2-uJhGXR3fkXRan0iL-tpiGwN7VJAw817RQ/viewform?usp=sf_link" target="_blank">Working Styles Workout Survey</a></b></td>
     </tr>
     <tr>
       <td style="text-align: left">Week 2 [10/21/2022]</td>
