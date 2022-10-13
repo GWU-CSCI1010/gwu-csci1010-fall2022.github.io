@@ -22,7 +22,7 @@ Your group has the option of selecting one project based on the in-class Raspber
 
 <!-- Here are some handy project templates you may want at some point. -->
 <!-- - [Final PowerPoint Template](/files/Final_Project_APSC1.pptx) -->
-- <a href="{{ site.github }}" target="_blank">PATH Statement</a>GIT Code Repo</a> (Codes created for in-class demonstrations)
+- <a href="{{ site.github }}" target="_blank">GIT Code Repo</a> (Codes created for in-class demonstrations)
 - [Python lecture/demo and homework files](/list/labs.html) Python lecture/demo and homework files are already on your DeepNote project pages for your review and reference
 - [Covid Data for Project 3](/list/covid-data.html)
     - Data source: [Our World in Data](https://ourworldindata.org/coronavirus)
