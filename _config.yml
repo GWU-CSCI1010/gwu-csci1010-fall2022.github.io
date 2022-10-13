@@ -13,7 +13,7 @@ avatar:           /theme/img/CS1010.png
 
 # Global parameters for links
 slack:            https://cs1010seasgwu.slack.com/
-github:           https://github.com/GWU-CSCI1010/Fall2022
+github:           https://github.com/GWU-CSCI1010/Fall2022/
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
@@ -37,6 +37,11 @@ collections:
   labs:
     output: true
     title: Labs
+    permalink: /:collection/:name.html
+
+  fall2021_labs:
+    output: true
+    title: Fall 2021 Labs
     permalink: /:collection/:name.html
 
   fall2020_labs:
@@ -67,6 +72,14 @@ defaults:
   -
     scope:
       path: "_labs"
+    values:
+      show_profile: true
+      layout: defaults/page
+      narrow: true
+    
+  -
+    scope:
+      path: "_fall2021_labs"
     values:
       show_profile: true
       layout: defaults/page

@@ -2,9 +2,15 @@
 title: Labs & Lectures
 permalink: list/labs.html
 ---
-**Fall 2021 microLabs: [Python programming using DeepNote] & [Raspberry Pi exercises]**
+**Fall 2022 microLabs: [Python programming using DeepNote] & [Raspberry Pi exercises]**
 <!--- Will be updated as the course progresses -->
 {% for lab in site.labs %}
+- [{{ lab.title }}]({{ site.baseurl }}{{ lab.url }})
+{% endfor %}
+
+**Archived Fall 2021 microLabs: [Python programming using DeepNote] & [Raspberry Pi exercises]**
+<!--- Will be updated as the course progresses -->
+{% for lab in site.fall2021_labs %}
 - [{{ lab.title }}]({{ site.baseurl }}{{ lab.url }})
 {% endfor %}
 
