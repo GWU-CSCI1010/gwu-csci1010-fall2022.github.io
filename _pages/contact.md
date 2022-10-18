@@ -34,14 +34,14 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 - Jonathan Garcia is a graduate student studying Mechanical Engineering with a focus on fluid dynamics and energy systems. Originally from Morristown, New Jersey, Jonathan completed his undergraduate degree in Mechanical and Aerospace Engineering at George Washington University in 2022. Last summer he completed an internship with DC Water, the district’s water utility. During this internship, he modified the code behind DC Water’s carbon footprint model and developed a concept design for an improved thermal energy system. Jonathan’s thesis research currently focuses on thermoelectric materials and their applications.
 - **E-mail:** jgarcia11@gwmail.gwu.edu
 - **Office hours:** Wednesday 3-5pm
-- **Location:** TBD
+- **Location:** SEH 4th Floor
 
 ### Learning Assistants
 ##### Adellar Irankunda
 - Adellar Irankunda is an undergraduate senior studying and researching astronomy and computer science. He is from the dc-area and enjoys working on computer vision and mixed reality projects. His work in the GW Physics department has included creating mission planning platforms for astronomers at Goddard. He’s been fortunate enough to work with Prof. Bulusu on hardware-oriented IoT projects, one of which was presented at SEAS R&D. He likes creating visualizations in the natural world and working on devices to help understand more about it.
 - **E-mail:** adellari@gwmail.gwu.edu
 - **Office hours:** Tuesday 4-6pm
-- **Location:** TBD
+- **Location:** SEH 2nd Floor
 
 ##### Fred Noubieptie
 - Fred is a sophomore studying Computer Science, hoping to minor in physics. Fred is originally from Cameroon. He is interested in Quantum Computing because he believes it's the feature and it can be used to help so many people around the world. Fred likes running, watching anime and doing anything and everything. Fred is part of Steel bridge, DBF, Rocket and EWOB

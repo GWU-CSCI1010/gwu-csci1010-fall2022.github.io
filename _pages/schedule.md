@@ -29,8 +29,8 @@ title: Course Schedule
       <td style="text-align: left">Week 2 [10/21/2022]</td>
       <td style="text-align: left">
         <ul>
-          <li>Electronic Voting by <b>Prof. Poorvi Vora</b></li>
-          <li>Introduction to Augmented and Virtual Reality Technologies by <b>Prof. Hurriyet Ok</b></li>
+          <li>Justice, Equity, Diversity, and Inclusion by <b><a href="https://www.cs.seas.gwu.edu/justice-equity-diversity-and-inclusion-jedi-committee" target="_blank">JEDI Comittee</a></b></li>
+          <li>Introduction to Augmented and Virtual Reality Technologies by <b><a href="https://www.linkedin.com/in/hurriyetok/" target="_blank">Prof. Hurriyet Ok</a></b></li>
         </ul> 
       </td>
       <td style="text-align: left">Handling data arrays and plotting data using Python; In-class Raspberry Pi Lab (Ultrasonic cacophony); Student group formation; <b>HW 1 due</b></td>
