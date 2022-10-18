@@ -42,7 +42,7 @@ title: Course Schedule
     </tr>
     <tr style="color:#ce3b3b">
       <td style="text-align: center">10/24/2022<br> to <br>10/25/2022</td>
-      <td style="text-align: center" colspan="2"><b>Fall Break</td>
+      <td style="text-align: center" colspan="2"><b>Fall Break</b></td>
     </tr>
     <tr>
       <td style="text-align: left">Week 3 [10/28/2022]</td>
@@ -94,7 +94,7 @@ title: Course Schedule
       <td style="text-align: left">In-class Raspberry Pi Lab; <b>HW 4 due</b></td>
     </tr>
     <tr style="color:#ce3b3b">
-      <td style="text-align: center">Week 7 [11/23/2022]<br> to <br>11/26/2022</td>
+      <td style="text-align: center">Week 7 [11/23/2022<br> to <br>11/26/2022]</td>
       <td style="text-align: center" colspan="2"><b>Thanksgiving Break <br>No class this week</b></td>
     </tr>
     <tr>
