@@ -38,11 +38,11 @@ title: Course Schedule
     <tr>
       <td style="text-align: center">[10/22/2022]</td>
       <td style="text-align: center" colspan="2"><b>Guided-Python Project on COVID-19 Data Analysis is released</b><br>
-      NOTE: This group project is due on 10/28/  2022   by 11:59 PM </td>
+      NOTE: This group project is due on 11/1/2022   by 11:59 PM </td>
     </tr>
     <tr style="color:#ce3b3b">
       <td style="text-align: center">10/24/2022<br> to <br>10/25/2022</td>
-      <td style="text-align: center" colspan="2"><b>Fall Break <br>No class this week</b></td>
+      <td style="text-align: center" colspan="2"><b>Fall Break</td>
     </tr>
     <tr>
       <td style="text-align: left">Week 3 [10/28/2022]</td>
@@ -55,7 +55,7 @@ title: Course Schedule
       <td style="text-align: left">Working with Pandas; Python Guided-project; In-class Raspberry Pi Lab on Heart rate measurements; <b>HW 2 due</b></td>
     </tr>
     <tr>
-      <td style="text-align: center">[10/28/2022]</td>
+      <td style="text-align: center">[11/1/2022]</td>
       <td style="text-align: center" colspan="2"><b>Guided-Python Project on COVID-19 Data Analysis is due by 11:59PM<br>
       NOTE: This group project accounts for 30% of the final grade</b></td>
     </tr>
@@ -70,6 +70,10 @@ title: Course Schedule
       <td style="text-align: left">Working with loops in Python; In-class Raspberry Pi Lab using senseHats; <b>HW 3 due</b></td>
     </tr>
     <tr>
+      <td style="text-align: center">[11/4/2022]</td>
+      <td style="text-align: center" colspan="2"><b>Final Raspberry Pi / Python group projects are announced. Student groups are asked to indicate their three choices by 11:59 PM</b></td>
+    </tr>
+    <tr>
       <td style="text-align: left">Week 5 [11/11/2022]</td>
       <td style="text-align: left">
         <ul>
@@ -78,10 +82,6 @@ title: Course Schedule
         </ul> 
       </td>
       <td style="text-align: left">In-class Raspberry Pi Lab on Image Encryption and Decryption / activities; <b>Python Guided-Project due</b></td>
-    </tr>
-    <tr>
-      <td style="text-align: center">[11/11/2022]</td>
-      <td style="text-align: center" colspan="2"><b>Final Raspberry Pi / Python group projects are announced. Student groups are asked to indicate their three choices by 11:59 PM</b></td>
     </tr>
     <tr>
       <td style="text-align: left">Week 6 [11/18/2022]</td>
@@ -94,7 +94,7 @@ title: Course Schedule
       <td style="text-align: left">In-class Raspberry Pi Lab; <b>HW 4 due</b></td>
     </tr>
     <tr style="color:#ce3b3b">
-      <td style="text-align: center">Week 7 [11/25/2022]<br> to <br>10/25/2022</td>
+      <td style="text-align: center">Week 7 [11/23/2022]<br> to <br>11/26/2022</td>
       <td style="text-align: center" colspan="2"><b>Thanksgiving Break <br>No class this week</b></td>
     </tr>
     <tr>
