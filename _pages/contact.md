@@ -59,7 +59,7 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 - Josie Libbon is a junior studying Computer Science, with a minor in Political Science. She is currently the Public Relations Chair of ACM (Association of Computing Machinery), the Conference Planner of WiCS (Women in Computer Science) and a Student Board Representative for the GWCS JEDI (Justice, Equality, Diversity, Inclusion) Council. This past summer, she worked in Professor Narahari and Professor Bulusu’s lab for a research fellowship, focusing on machine learning and artificial intelligence. In her free time, she enjoys running, playing bass guitar, and dancing in GW Balance.
 - **E-mail:** josielibbon@gwmail.gwu.edu
 - **Office hours:** Wednesday 12:30-2:30pm
-- **Location:** TBD
+- **Location:** SEH 4th Floor
 
 ##### Miles Grant
 - Miles Grant is a senior studying Computer Science with a minor in Geography. He is interested in cybersecurity with a specific focus on online privacy for vulnerable and underrepresented groups. Since summer 2020, Miles has done research in the GWU Usable Security and Privacy Lab (GWUSEC) with Professors Aviv and Acar in the area of mobile authentication. He is an athlete on the GW Track and Field team and his hobbies include photography, skateboarding, and parkour.
