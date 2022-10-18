@@ -67,8 +67,8 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 
 - Fred is a sophomore studying Computer Science, hoping to minor in physics. Fred is originally from Cameroon. He is interested in Quantum Computing because he believes it's the feature and it can be used to help so many people around the world. Fred likes running, watching anime and doing anything and everything. Fred is part of Steel bridge, DBF, Rocket and EWOB
 - **E-mail:** rnoubieptie40@gwmail.gwu.edu
-- **Office hours:** Sunday 3-4pm
-- **Location:** Tompkins 402
+- **Office hours:** Thursday 10-11am, Sunday 3-4pm
+- **Location:** Thurs: <a href="https://gwu-edu.zoom.us/j/8864726455" target="_blank">Zoom</a>, Sun: Tompkins 402
 <br/><br/>
 
 ##### Joshua Rizika
@@ -115,10 +115,10 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 
 
 <script>
-    officeHours = {"Sunday": ["<li><b>Fred Noubieptie<\/b>: 3-4pm at Tompkins 402<\/li>"],
-                   "Monday": ["<li><b>Marshall Thompson<\/b>: 2:15-4:15pm at SEH 4040 (Bubble Classroom)<\/li>"],
+    officeHours = {"Sunday": ["<li><b>Fred Noubieptie<\/b>: 3-4pm in Tompkins 402<\/li>"],
+                   "Monday": ["<li><b>Marshall Thompson<\/b>: 2:15-4:15pm in SEH 4040 (Bubble Classroom)<\/li>"],
                    "Tuesday": ["<li><b>Miles Grant<\/b>: 11am-12pm at Ames Hall B115<\/li>",
-                               "<li><b>Matt Dionne<\/b>: 1-3pm at Tompkins 402<\/li>",
+                               "<li><b>Matt Dionne<\/b>: 1-3pm in Tompkins 402<\/li>",
                                "<li><b>Adellar Irankunda<\/b>: 4-6pm at SEH 2nd Floor<\/li>"],
 
                    "Wednesday": ["<li><b>Sameen Ahmad<\/b>: 11am-12pm at SEH 3rd Floor<\/li>",
@@ -126,7 +126,8 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
                                  "<li><b>Jonathan Garcia<\/b>: 3-5pm at SEH 4th Floor<\/li>",
                                  "<li><b>Miles Grant<\/b>: 5-6pm at SEH 4th Floor<\/li>",
                                  "<li><b>Joshua Rizika<\/b>: 6-8pm at SEH 4th Floor<\/li>"],
-                   "Thursday": ["<li><b>Marshall Thompson<\/b>: 2:15-4:15pm at SEH 4040 (Bubble Classroom)<\/li>"],
+                   "Thursday": ["<li><b>Fred Noubieptie<\/b>: 10-11am on <a href=\"https://gwu-edu.zoom.us/j/8864726455\" target=\"_blank\">Zoom<\/a>,<\/li>",
+                                "<li><b>Marshall Thompson<\/b>: 2:15-4:15pm in SEH 4040 (Bubble Classroom)<\/li>"],
                    "Friday": ["Class is today! &#x1F389 No Office Hours"],
                    "Saturday": ["No Office Hours Today &#128533 Please use the Slack channel for any questions!"]};
 
