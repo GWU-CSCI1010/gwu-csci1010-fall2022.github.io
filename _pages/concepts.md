@@ -26,12 +26,13 @@ title: Concept Check-Ins
     <tr>
       <td style="text-align: left"> Week 2 [10/21/2022]</td>
       <td style="text-align: left"> 
-      <a href="" target="_blank">Week 2 - Python Concept Check In</a>
+      <a href="https://forms.gle/VtxHsWs7xzyN87Dg7" target="_blank">Week 2 - Python Concept Check In</a>
       </td>
       <td style="text-align: left"> 
       <a href="" target="_blank">Week 2 - Raspberry Pi Concept Check In</a>
       </td>
     </tr>
+<!--
     <tr>
       <td style="text-align: left"> Week 3 [10/28/2022]</td>
       <td style="text-align: left"> 
@@ -86,5 +87,6 @@ title: Concept Check-Ins
       <a href="" target="_blank">Week 8 - Raspberry Pi Concept Check In</a>
       </td>
     </tr>
+-->
   </tbody>
 </table>
