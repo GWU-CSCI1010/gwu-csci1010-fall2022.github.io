@@ -10,7 +10,8 @@ narrow: true
 Got too many ~things~ to keep track of for online classes? Not to worry, this page is your one-stop shop for CS 1010.
 - Below is a link to the course from Fall 2021 to get you excited!
     - Link: <a href="https://gwu-apsc1001.github.io/" target="_blank"> APSC1001 in Fall 2021 </a>
-    
+
+### <a href="https://forms.gle/tokB9y3tfxG9jecn7" target="_blank">CS1010 Entry Survey</a>
 
 ### Important Links for Fall 2022
 - **[Slack group]**: Join the course's **[Slack Workspace](https://apsc1001seasgwu.slack.com/)**. Here's where you'll hear class announcements, get questions answered, or just get to know your classmates.
