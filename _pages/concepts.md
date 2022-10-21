@@ -29,7 +29,7 @@ title: Concept Check-Ins
       <a href="https://forms.gle/VtxHsWs7xzyN87Dg7" target="_blank">Week 2 - Python Concept Check In</a>
       </td>
       <td style="text-align: left"> 
-      <a href="" target="_blank">Week 2 - Raspberry Pi Concept Check In</a>
+      <a href="https://forms.gle/x2e8Drde1zBMbCa38" target="_blank">Week 2 - Raspberry Pi Concept Check In</a>
       </td>
     </tr>
 <!--

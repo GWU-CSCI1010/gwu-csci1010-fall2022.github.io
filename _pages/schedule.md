@@ -29,7 +29,7 @@ title: Course Schedule
       <td style="text-align: left">Week 2 [10/21/2022]</td>
       <td style="text-align: left">
         <ul>
-          <li>Justice, Equity, Diversity, and Inclusion by <b><a href="https://www.cs.seas.gwu.edu/justice-equity-diversity-and-inclusion-jedi-committee" target="_blank">JEDI Comittee</a></b></li>
+          <li>Very brief introduction to matrices by <b><a href="https://www.linkedin.com/in/kartik-bulusu-1295261/" target="_blank">Prof. Kartik Bulusu</a></b></li>
           <li>Introduction to Augmented and Virtual Reality Technologies by <b><a href="https://www.linkedin.com/in/hurriyetok/" target="_blank">Prof. Hurriyet Ok</a></b></li>
         </ul> 
       </td>
