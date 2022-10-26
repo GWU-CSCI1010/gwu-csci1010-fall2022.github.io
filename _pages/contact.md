@@ -51,7 +51,7 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 - Jonathan Garcia is a graduate student studying Mechanical Engineering with a focus on fluid dynamics and energy systems. Originally from Morristown, New Jersey, Jonathan completed his undergraduate degree in Mechanical and Aerospace Engineering at George Washington University in 2022. Last summer he completed an internship with DC Water, the district’s water utility. During this internship, he modified the code behind DC Water’s carbon footprint model and developed a concept design for an improved thermal energy system. Jonathan’s thesis research currently focuses on thermoelectric materials and their applications.
 - **E-mail:** jgarcia11@gwmail.gwu.edu
 - **Office hours:** Wednesday 3-5pm
-- **Location:** SEH 4th Floor
+- **Location:** Tompkins 409
 
 ### Learning Assistants
 <!-- ##### Adellar Irankunda
@@ -122,7 +122,7 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 
                    "Wednesday": ["<li><b>Sameen Ahmad<\/b>: 11am-12pm at SEH 3rd Floor<\/li>",
                                  "<li><b>Josie Libbon<\/b>: 12:30-2:30pm at SEH 4th Floor<\/li>",
-                                 "<li><b>Jonathan Garcia<\/b>: 3-5pm at SEH 4th Floor<\/li>",
+                                 "<li><b>Jonathan Garcia<\/b>: 3-5pm at Tompkins 409<\/li>",
                                  "<li><b>Miles Grant<\/b>: 5-6pm at SEH 4th Floor<\/li>",
                                  "<li><b>Joshua Rizika<\/b>: 6-8pm at SEH 4th Floor<\/li>"],
                    "Thursday": ["<li><b>Fred Noubieptie<\/b>: 10-11am on <a href=\"https://gwu-edu.zoom.us/j/8864726455\" target=\"_blank\">Zoom<\/a>,<\/li>",
