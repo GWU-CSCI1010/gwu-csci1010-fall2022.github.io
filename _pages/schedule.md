@@ -48,11 +48,11 @@ title: Course Schedule
       <td style="text-align: left">Week 3 [10/28/2022]</td>
       <td style="text-align: left">
         <ul>
-          <li>Cryptography and Secure Computation by <b>Prof. Arkady Yerukhimovich</b></li>
-          <li>Cloud Computing by <b>Prof. Tim Wood</b></li>
+          <li>Cryptography and Secure Computation by <b><a href="https://www2.seas.gwu.edu/~arkady/" target="_blank">Prof. Arkady Yerukhimovich</a></b></li>
+          <li>Cloud Computing by <b><a href="http://faculty.cs.gwu.edu/timwood/" target="_blank">Prof. Tim Wood</a></b></li>
         </ul> 
       </td>
-      <td style="text-align: left">Working with Pandas; Python Guided-project; In-class Raspberry Pi Lab on Heart rate measurements; <b>HW 2 due</b></td>
+      <td style="text-align: left">Working with loops in Python; In-class Raspberry Pi Lab using senseHats; <b>HW 2 due</b></td>
     </tr>
     <tr>
       <td style="text-align: center">[11/1/2022]</td>
@@ -63,11 +63,11 @@ title: Course Schedule
       <td style="text-align: left">Week 4 [11/04/2022]</td>
       <td style="text-align: left">
         <ul>
-          <li>Computer Vision by <b>Prof. Robert Pless</b></li>
-          <li>Natural Language Processing by <b>Prof. Kinga Dobolyi</b></li>
+          <li>Computer Vision by <b><a href="http://www2.seas.gwu.edu/~pless/index.php" target="_blank">Prof. Robert Pless</a></b></li>
+          <li>Natural Language Processing by <b><a href="https://www2.seas.gwu.edu/~kinga/" target="_blank">Prof. Kinga Dobolyi</a></b></li>
         </ul> 
       </td>
-      <td style="text-align: left">Working with loops in Python; In-class Raspberry Pi Lab using senseHats; <b>HW 3 due</b></td>
+      <td style="text-align: left">In-class Raspberry Pi Lab using Pi NOIR camera; <b>Python Guided-Project due</b></td>
     </tr>
     <tr>
       <td style="text-align: center">[11/4/2022]</td>
@@ -77,21 +77,21 @@ title: Course Schedule
       <td style="text-align: left">Week 5 [11/11/2022]</td>
       <td style="text-align: left">
         <ul>
-          <li>Machine Learning by <b>Richard Sear (CS Alumni and ML researcher)</b></li>
-          <li>Information privacy / Image encryption-decryption by <b>Prof. Bhagirath Narahari(tentative)</b></li>
+          <li>Machine Learning by <b><a href="https://www.linkedin.com/in/richard-sear" target="_blank">Richard Sear</a> (CS Alumni and ML researcher)</b></li>
+          <li>Information privacy / Image encryption-decryption by <b><a href="https://www2.seas.gwu.edu/~narahari/">Prof. Bhagirath Narahari</a> (tentative)</b></li>
         </ul> 
       </td>
-      <td style="text-align: left">In-class Raspberry Pi Lab on Image Encryption and Decryption / activities; <b>Python Guided-Project due</b></td>
+      <td style="text-align: left">In-class Raspberry Pi Lab on Image Encryption and Decryption / activities; <b>HW 3 due</b></td>
     </tr>
     <tr>
       <td style="text-align: left">Week 6 [11/18/2022]</td>
       <td style="text-align: left">
         <ul>
-          <li>Secure Autonomous Systems by <b>Prof. Sibin Mohan</b></li>
-          <li>Computer Graphics by <b>Prof. James Hahn</b></li>
+          <li>Secure Autonomous Systems by <b><a href="https://sibin.github.io/sibin.html" target="_blank">Prof. Sibin Mohan</a></b></li>
+          <li>Computer Graphics by <b><a href=https://www.cs.seas.gwu.edu/james-hahn" target="_blank">Prof. James Hahn</a></b></li>
         </ul> 
       </td>
-      <td style="text-align: left">In-class Raspberry Pi Lab; <b>HW 4 due</b></td>
+      <td style="text-align: left">Working with Pandas; Python Guided-project; In-class Raspberry Pi Lab on Heart rate measurements; <b>HW 4 due</b></td>
     </tr>
     <tr style="color:#ce3b3b">
       <td style="text-align: center">Week 7 [11/23/2022<br> to <br>11/26/2022]</td>
@@ -101,7 +101,7 @@ title: Course Schedule
       <td style="text-align: left">Week 8 [12/02/2022]</td>
       <td style="text-align: left">
         <ul>
-          <li>Advising Computer Science students by <b>Prof. Poorvi Vora and Prof. Hyeong-Ah Choi</b></li>
+          <li>Advising Computer Science students by <b><a href="https://www2.seas.gwu.edu/~poorvi/" target="_blank">Prof. Poorvi Vora</a> and <a href="https://www2.seas.gwu.edu/~hchoi/" target="_blank">Prof. Hyeong-Ah Choi</a></b></li>
         </ul> 
       </td>
       <td style="text-align: left">Getting involved in student orgs; Choropleths in Python; <b>HW 5 due</b></td>
