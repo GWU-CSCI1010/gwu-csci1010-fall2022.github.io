@@ -88,7 +88,7 @@ title: Course Schedule
       <td style="text-align: left">
         <ul>
           <li>Secure Autonomous Systems by <b><a href="https://sibin.github.io/sibin.html" target="_blank">Prof. Sibin Mohan</a></b></li>
-          <li>Computer Graphics by <b><a href=https://www.cs.seas.gwu.edu/james-hahn" target="_blank">Prof. James Hahn</a></b></li>
+          <li>Computer Graphics by <b><a href="https://www.cs.seas.gwu.edu/james-hahn" target="_blank">Prof. James Hahn</a></b></li>
         </ul> 
       </td>
       <td style="text-align: left">Working with Pandas; Python Guided-project; In-class Raspberry Pi Lab on Heart rate measurements; <b>HW 4 due</b></td>
