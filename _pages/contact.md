@@ -54,13 +54,13 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 - **Location:** Tompkins 409
 
 ### Learning Assistants
-<!-- ##### Adellar Irankunda
+##### Adellar Irankunda
 <img class="profile"  src="{{ site.baseurl}}/images/AddyI.jpg">
 
 - Adellar Irankunda is an undergraduate senior studying and researching astronomy and computer science. He is from the dc-area and enjoys working on computer vision and mixed reality projects. His work in the GW Physics department has included creating mission planning platforms for astronomers at Goddard. He’s been fortunate enough to work with Prof. Bulusu on hardware-oriented IoT projects, one of which was presented at SEAS R&D. He likes creating visualizations in the natural world and working on devices to help understand more about it.
 - **E-mail:** adellari@gwmail.gwu.edu
 - **Office hours:** Tuesday 4-6pm
-- **Location:** SEH 2nd Floor -->
+- **Location:** SEH 2nd Floor
 
 ##### Fred Noubieptie
 <img class="profile"  src="{{ site.baseurl}}/images/FredN.jpg">
@@ -118,7 +118,8 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
     officeHours = {"Sunday": ["<li><b>Fred Noubieptie<\/b>: 3-4pm in Tompkins 402<\/li>"],
                    "Monday": ["<li><b>Marshall Thompson<\/b>: 2:15-4:15pm in SEH 4040 (Bubble Classroom)<\/li>"],
                    "Tuesday": ["<li><b>Miles Grant<\/b>: 11am-12pm at Ames Hall B115<\/li>",
-                               "<li><b>Matt Dionne<\/b>: 1-3pm in Tompkins 402<\/li>"],
+                               "<li><b>Matt Dionne<\/b>: 1-3pm in Tompkins 402<\/li>",
+                               "<li><b>Adellar Irankunda<\/b>: 2-4pm at SEH 2nd Floor<\/li>"],
 
                    "Wednesday": ["<li><b>Sameen Ahmad<\/b>: 11am-12pm at SEH 3rd Floor<\/li>",
                                  "<li><b>Josie Libbon<\/b>: 12:30-2:30pm at SEH 4th Floor<\/li>",

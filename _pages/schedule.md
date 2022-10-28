@@ -52,7 +52,7 @@ title: Course Schedule
           <li>Cloud Computing by <b><a href="http://faculty.cs.gwu.edu/timwood/" target="_blank">Prof. Tim Wood</a></b></li>
         </ul> 
       </td>
-      <td style="text-align: left">Working with loops in Python; In-class Raspberry Pi Lab using senseHats; <b>HW 2 due</b></td>
+      <td style="text-align: left"> Learning about dataframe using Pandas in Python; In-class Raspberry Pi Lab using senseHats; <b>HW 2 due</b></td>
     </tr>
     <tr>
       <td style="text-align: center">[11/1/2022]</td>

@@ -32,16 +32,16 @@ title: Concept Check-Ins
       <a href="https://forms.gle/x2e8Drde1zBMbCa38" target="_blank">Week 2 - Raspberry Pi Concept Check In</a>
       </td>
     </tr>
-<!--
     <tr>
       <td style="text-align: left"> Week 3 [10/28/2022]</td>
       <td style="text-align: left"> 
-      <a href="" target="_blank">Week 3 - Python Concept Check In</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0n_zdxy7Wd_a6uliMmv0oIRzt_Y63HmXF_gLPLrQagdL5pQ/viewform?usp=sf_link" target="_blank">Week 3 - Python Concept Check In</a>
       </td>
       <td style="text-align: left"> 
-      <a href="" target="_blank">Week 3 - Raspberry Pi Concept Check In</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSd58S0QhXvuOP3rQzOzpIekrVLy83CTvZ90ttZuP64Yo_gQRQ/viewform?usp=sf_link" target="_blank">Week 3 - Raspberry Pi Concept Check In</a>
       </td>
     </tr>
+  <!--
     <tr>
       <td style="text-align: left"> Week 4 [11/04/2022]</td>
       <td style="text-align: left"> 
