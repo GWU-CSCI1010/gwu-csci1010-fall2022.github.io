@@ -91,4 +91,5 @@ title: Concept Check-Ins
   </tbody>
 </table>
 
+</br>
 <h3><a href="{{site.baseurl}}/concepts-practice.html"><b>[Link]</b> Ungraded Practice Check-Ins from CS1012</a></h3>
