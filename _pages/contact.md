@@ -119,7 +119,7 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
                    "Monday": ["<li><b>Marshall Thompson<\/b>: 2:15-4:15pm in SEH 4040 (Bubble Classroom)<\/li>"],
                    "Tuesday": ["<li><b>Miles Grant<\/b>: 11am-12pm at Ames Hall B115<\/li>",
                                "<li><b>Matt Dionne<\/b>: 1-3pm in Tompkins 402<\/li>",
-                               "<li><b>Adellar Irankunda<\/b>: 2-4pm at SEH 2nd Floor<\/li>"],
+                               "<li><b>Adellar Irankunda<\/b>: 4-6pm at SEH 2nd Floor<\/li>"],
 
                    "Wednesday": ["<li><b>Sameen Ahmad<\/b>: 11am-12pm at SEH 3rd Floor<\/li>",
                                  "<li><b>Josie Libbon<\/b>: 12:30-2:30pm at SEH 4th Floor<\/li>",
