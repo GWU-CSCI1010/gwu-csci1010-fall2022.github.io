@@ -4,7 +4,7 @@ permalink: concepts.html
 narrow: true
 title: Concept Check-Ins
 ---
-
+<h3><a href="{{site.baseurl}}/concepts-practice.html"><b>[Link]</b> Ungraded Practice Check-Ins from CS1012</a></h3>
 <table>
   <thead>
     <tr>
