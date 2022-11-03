@@ -64,7 +64,7 @@ title: Course Schedule
       <td style="text-align: left">
         <ul>
           <li>Computer Vision by <b><a href="http://www2.seas.gwu.edu/~pless/index.php" target="_blank">Prof. Robert Pless</a></b></li>
-          <li>Natural Language Processing by <b><a href="https://www2.seas.gwu.edu/~kinga/" target="_blank">Prof. Kinga Dobolyi</a></b></li>
+          <li>Computer Vision and Natural Language Processing applied to BioMed by <b><a href="https://www2.seas.gwu.edu/~kinga/" target="_blank">Prof. Kinga Dobolyi</a></b></li>
         </ul> 
       </td>
       <td style="text-align: left">In-class Raspberry Pi Lab using Pi NOIR camera; <b>Python Guided-Project due</b></td>
