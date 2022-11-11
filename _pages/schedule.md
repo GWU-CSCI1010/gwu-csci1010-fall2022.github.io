@@ -67,7 +67,7 @@ title: Course Schedule
           <li>Computer Vision and Natural Language Processing applied to BioMed by <b><a href="https://www2.seas.gwu.edu/~kinga/" target="_blank">Prof. Kinga Dobolyi</a></b></li>
         </ul> 
       </td>
-      <td style="text-align: left">In-class Raspberry Pi Lab using Pi NOIR camera; <b>Python Guided-Project due</b>;<b>HW3 due</b></td>
+      <td style="text-align: left">In-class Raspberry Pi Lab using Pi NOIR camera; <b>Python Guided-Project due</b>;<b> HW3 due</b></td>
     </tr>
     <tr>
       <td style="text-align: center">[11/4/2022]</td>
