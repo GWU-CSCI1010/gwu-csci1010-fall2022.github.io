@@ -77,7 +77,7 @@ title: Course Schedule
       <td style="text-align: left">Week 5 [11/11/2022]</td>
       <td style="text-align: left">
         <ul>
-          <li>Machine Learning by <b><a href="https://www.linkedin.com/in/richard-sear" target="_blank">Richard Sear</a> (CS Alumni and ML researcher)</b></li>
+          <li>Machine Learning by <b><a href="https://searri.github.io/" target="_blank">Richard Sear</a> (CS Alumni and <a href="https://donlab.columbian.gwu.edu/" target="_blank">ML researcher</a>)</b><a href="{{ site.baseurl }}/files/Rick Sear - CSCI 1010 Talk.pdf" target="_blank"> [Slides]</a></li>
           <li>Information privacy / Image encryption-decryption by <b><a href="https://www2.seas.gwu.edu/~narahari/">Prof. Bhagirath Narahari</a> (tentative)</b></li>
         </ul> 
       </td>
