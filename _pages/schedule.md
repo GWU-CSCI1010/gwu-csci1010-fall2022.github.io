@@ -64,10 +64,10 @@ title: Course Schedule
       <td style="text-align: left">
         <ul>
           <li>Computer Vision by <b><a href="http://www2.seas.gwu.edu/~pless/index.php" target="_blank">Prof. Robert Pless</a></b></li>
-          <li>Natural Language Processing by <b><a href="https://www2.seas.gwu.edu/~kinga/" target="_blank">Prof. Kinga Dobolyi</a></b></li>
+          <li>Computer Vision and Natural Language Processing applied to BioMed by <b><a href="https://www2.seas.gwu.edu/~kinga/" target="_blank">Prof. Kinga Dobolyi</a></b></li>
         </ul> 
       </td>
-      <td style="text-align: left">In-class Raspberry Pi Lab using Pi NOIR camera; <b>Python Guided-Project due</b></td>
+      <td style="text-align: left">In-class Raspberry Pi Lab using Pi NOIR camera; <b>Python Guided-Project due</b>;<b>HW3 due</b></td>
     </tr>
     <tr>
       <td style="text-align: center">[11/4/2022]</td>
@@ -81,7 +81,7 @@ title: Course Schedule
           <li>Information privacy / Image encryption-decryption by <b><a href="https://www2.seas.gwu.edu/~narahari/">Prof. Bhagirath Narahari</a> (tentative)</b></li>
         </ul> 
       </td>
-      <td style="text-align: left">In-class Raspberry Pi Lab on Image Encryption and Decryption / activities; <b>HW 3 due</b></td>
+      <td style="text-align: left">In-class Raspberry Pi Lab on Image Encryption and Decryption / activities; <b>HW 4 due</b></td>
     </tr>
     <tr>
       <td style="text-align: left">Week 6 [11/18/2022]</td>
@@ -91,7 +91,7 @@ title: Course Schedule
           <li>Computer Graphics by <b><a href="https://www.cs.seas.gwu.edu/james-hahn" target="_blank">Prof. James Hahn</a></b></li>
         </ul> 
       </td>
-      <td style="text-align: left">Working with Pandas; Python Guided-project; In-class Raspberry Pi Lab on Heart rate measurements; <b>HW 4 due</b></td>
+      <td style="text-align: left">Working with Pandas; Python Guided-project; In-class Raspberry Pi Lab on Heart rate measurements; <b>HW 5 due</b></td>
     </tr>
     <tr style="color:#ce3b3b">
       <td style="text-align: center">Week 7 [11/23/2022<br> to <br>11/26/2022]</td>
@@ -104,7 +104,7 @@ title: Course Schedule
           <li>Advising Computer Science students by <b><a href="https://www2.seas.gwu.edu/~poorvi/" target="_blank">Prof. Poorvi Vora</a> and <a href="https://www2.seas.gwu.edu/~hchoi/" target="_blank">Prof. Hyeong-Ah Choi</a></b></li>
         </ul> 
       </td>
-      <td style="text-align: left">Getting involved in student orgs; Choropleths in Python; <b>HW 5 due</b></td>
+      <td style="text-align: left">Getting involved in student orgs; Choropleths in Python</td>
     </tr>
     <tr>
       <td style="text-align: center">[12/05/2022]</td>
