@@ -78,7 +78,7 @@ title: Course Schedule
       <td style="text-align: left">
         <ul>
           <li>Machine Learning by <b><a href="https://searri.github.io/" target="_blank">Richard Sear</a> (CS Alumni and <a href="https://donlab.columbian.gwu.edu/" target="_blank">ML researcher</a>)</b><a href="{{ site.baseurl }}/files/Rick Sear - CSCI 1010 Talk.pdf" target="_blank"> [Slides]</a></li>
-          <li>Information privacy / Image encryption-decryption by <b><a href="https://www2.seas.gwu.edu/~narahari/">Prof. Bhagirath Narahari</a> (tentative)</b></li>
+          <li>Information privacy / Image encryption-decryption by <b><a href="https://www2.seas.gwu.edu/~narahari/">Prof. Bhagirath Narahari</a></b></li>
         </ul> 
       </td>
       <td style="text-align: left">In-class Raspberry Pi Lab on Image Encryption and Decryption / activities; <b>HW 4 due</b></td>
@@ -91,7 +91,7 @@ title: Course Schedule
           <li>Computer Graphics by <b><a href="https://www.cs.seas.gwu.edu/james-hahn" target="_blank">Prof. James Hahn</a></b></li>
         </ul> 
       </td>
-      <td style="text-align: left">Working with Pandas; Python Guided-project; In-class Raspberry Pi Lab on Heart rate measurements; <b>HW 5 due</b></td>
+      <td style="text-align: left">Working with Functions in Python; Discussion on Final Projects; <b>HW 5 due</b></td>
     </tr>
     <tr style="color:#ce3b3b">
       <td style="text-align: center">Week 7 [11/23/2022<br> to <br>11/26/2022]</td>
@@ -101,10 +101,10 @@ title: Course Schedule
       <td style="text-align: left">Week 8 [12/02/2022]</td>
       <td style="text-align: left">
         <ul>
-          <li>Advising Computer Science students by <b><a href="https://www2.seas.gwu.edu/~poorvi/" target="_blank">Prof. Poorvi Vora</a> and <a href="https://www2.seas.gwu.edu/~hchoi/" target="_blank">Prof. Hyeong-Ah Choi</a></b></li>
+          <li>Advising Computer Science students by <b><a href="https://www2.seas.gwu.edu/~poorvi/" target="_blank">Prof. Poorvi Vora</a></b></li>
         </ul> 
       </td>
-      <td style="text-align: left">Getting involved in student orgs; Choropleths in Python</td>
+      <td style="text-align: left">Choropleths in Python; In-class Raspberry Pi Lab on Heart rate measurements;</td>
     </tr>
     <tr>
       <td style="text-align: center">[12/05/2022]</td>
