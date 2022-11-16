@@ -33,7 +33,7 @@ Your group has the option of selecting one project based on the in-class Raspber
 - <a href="{{ site.baseurl }}/files/path_statement.pdf" target="_blank">PATH Statement</a> (Source: Adapted from Participatory Design Toolkit (2019), D-lab, MIT)
 - 30 second video of your project solution in MP4-format
 - When your team is finished with the project, submit it here! 
-**Group project submission Link:** <a href="https://docs.google.com/forms/d/e/1FAIpQLScUggkbSIUup4jBr-ZugkM74gv--JVHpIPAhVK6XxChOOzltg/viewform?usp=sf_link" target="_blank">Google Form</a>
+**Group project submission Link:** <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo7grjvQ6Unj8HEEmS3EL-a4MZ6GEla8MDn7IfAFFarrpBWA/viewform?usp=sf_link" target="_blank">Google Form</a>
 
 Submit by **December 5, 2022**.
 
