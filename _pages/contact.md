@@ -101,7 +101,7 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 
 - Sameen is a sophomore majoring in Computer Science. She is from the DMV area (Arlington, VA) and is interested in cybersecurity and artificial intelligence. Ever since Sameen developed her passion for computer science, it has been her goal to combine it with social change. Sameen is a committee member of the GW Computer Science Justice, Equity, Diversity, and Inclusion (<a href="https://www.cs.seas.gwu.edu/justice-equity-diversity-and-inclusion-jedi-committee" target="_blank">GWCS JEDI</a>) Committee, Co-President for Girls Who Code College Loop at GW, and the Recruitment and Mentorship Director of WiCS (Women in Computer Science). She is also a member of the Society of Women Engineers (SWE) and Women in Cybersecurity (WiCyS). She enjoys spending time with her family and friends in her free time. Sameen can not wait to meet everyone!
 - **E-mail:** sameen_ahmad@gwu.edu
-- **Office hours:** Wednesday 11am-12-pm
+- **Office hours:** Wednesday 11am-12pm
 - **Location:** SEH 3rd Floor
 
 
@@ -110,12 +110,13 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 
 - Talia is a sophomore studying Computer Science. She is originally from Phoenix, Arizona and enjoys going on hikes in the desert and here in Virginia in the mountains.  Talia is interested in AI and quantum computing. She enjoys meeting new people and working as a part of a team. Along with classwork, Talia is also involved with GW’s radio station, WRGW, and serves as the assistant programming director on the board. She cannot wait to meet everyone and start this class.
 - **E-mail:** talianovack@gwu.edu
-- **Office hours:** Wednesday 5:30-6:30pm OR Sunday 3-4pm
-- **Location:** TBD
+- **Office hours:** Thursday 11am-12pm OR Sunday 3-4pm
+- **Location:** Thurs: SEH 4th Floor, Sun: Tompkins 402
 
 
 <script>
-    officeHours = {"Sunday": ["<li><b>Fred Noubieptie<\/b>: 3-4pm in Tompkins 402<\/li>"],
+    officeHours = {"Sunday": ["<li><b>Fred Noubieptie<\/b>: 3-4pm in Tompkins 402<\/li>",
+                              "<li><b>Talia Novack<\/b>: 3-4pm in Tompkins 402<\/li>"],
                    "Monday": ["<li><b>Marshall Thompson<\/b>: 2:15-4:15pm in SEH 4040 (Bubble Classroom)<\/li>"],
                    "Tuesday": ["<li><b>Miles Grant<\/b>: 11am-12pm at Ames Hall B115<\/li>",
                                "<li><b>Matt Dionne<\/b>: 1-3pm in Tompkins 402<\/li>",
@@ -127,6 +128,7 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
                                  "<li><b>Miles Grant<\/b>: 5-6pm at SEH 4th Floor<\/li>",
                                  "<li><b>Joshua Rizika<\/b>: 6-8pm at SEH 4th Floor<\/li>"],
                    "Thursday": ["<li><b>Fred Noubieptie<\/b>: 10-11am on <a href=\"https://gwu-edu.zoom.us/j/8864726455\" target=\"_blank\">Zoom<\/a>,<\/li>",
+                                "<li><b>Talia Novack<\/b>: 11am-12pm at SEH 4th Floor<\/li>"
                                 "<li><b>Marshall Thompson<\/b>: 2:15-4:15pm in SEH 4040 (Bubble Classroom)<\/li>"],
                    "Friday": ["Class is today! &#x1F389 No Office Hours"],
                    "Saturday": ["No Office Hours Today &#128533 Please use the Slack channel for any questions!"]};
