@@ -59,25 +59,25 @@ title: Concept Check-Ins
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSevfgh-DC8fm3VANl3FIH4F0BK1W4RFpftU6kJCRaI7wc8vfA/viewform?usp=sf_link" target="_blank">Week 5 - Raspberry Pi Concept Check In</a>
       </td>
     </tr>
-    <!--
     <tr>
       <td style="text-align: left"> Week 6 [11/18/2022]</td>
       <td style="text-align: left"> 
-      <a href="" target="_blank">Week 6 - Python Concept Check In</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSeioEogQ-Gm8ZTU6CG0Fk8OxcZUlFff3TxB5S_f1y73UDvDNA/viewform?usp=sf_link" target="_blank">Week 6 - Python Concept Check In</a>
       </td>
-      <td style="text-align: left"> 
-      <a href="" target="_blank">Week 6 - Raspberry Pi Concept Check In</a>
+      <td>
+      -
       </td>
     </tr>
     <tr>
       <td style="text-align: left"> Week 7 [11/25/2022]</td>
       <td style="text-align: left"> 
-      <a href="" target="_blank">Week 7 - Python Concept Check In</a>
+      -
       </td>
       <td style="text-align: left"> 
-      <a href="" target="_blank">Week 7 - Raspberry Pi Concept Check In</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQb2dA-H19N26RCbKU1mAlvPefBX7gky5Pmk7fzuySn7G-rg/viewform?usp=sf_link" target="_blank">Week 7 - Raspberry Pi Concept Check In</a>
       </td>
     </tr>
+    <!--
     <tr>
       <td style="text-align: left"> Week 8 [12/05/2022]</td>
       <td style="text-align: left"> 

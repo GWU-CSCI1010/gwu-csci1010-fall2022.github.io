@@ -94,17 +94,17 @@ title: Course Schedule
       <td style="text-align: left">Working with Functions in Python; Discussion on Final Projects; <b>HW 5 due</b></td>
     </tr>
     <tr style="color:#ce3b3b">
-      <td style="text-align: center">Week 7 [11/23/2022<br> to <br>11/26/2022]</td>
+      <td style="text-align: center">[11/23/2022<br> to <br>11/26/2022]</td>
       <td style="text-align: center" colspan="2"><b>Thanksgiving Break <br>No class this week</b></td>
     </tr>
     <tr>
-      <td style="text-align: left">Week 8 [12/02/2022]</td>
+      <td style="text-align: left">Week 7 [12/02/2022]</td>
       <td style="text-align: left">
         <ul>
           <li>Advising Computer Science students by <b><a href="https://www2.seas.gwu.edu/~poorvi/" target="_blank">Prof. Poorvi Vora</a></b></li>
         </ul> 
       </td>
-      <td style="text-align: left">Choropleths in Python; In-class Raspberry Pi Lab on Heart rate measurements;</td>
+      <td style="text-align: left">In-class Raspberry Pi Lab on Heart rate measurements;</td>
     </tr>
     <tr>
       <td style="text-align: center">[12/05/2022]</td>
@@ -112,7 +112,7 @@ title: Course Schedule
       NOTE: This group project accounts for 30% of the final grade</b></td>
     </tr>
     <tr>
-      <td style="text-align: center">Week 9 [12/09/2022]</td>
+      <td style="text-align: center">Week 8 [12/09/2022]</td>
       <td style="text-align: center" colspan="2">Student and Alumni Panel; Final Project Presentations Review; Monday after this course!</td>
     </tr>
     <tr>
