@@ -54,5 +54,29 @@ title: CS1012 Practice Concept Check-Ins
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-X0rCG8lrm426JNCV_YKtfwcN6w-o9JBcTnZs6mTDamaOlw/viewform" target="_blank">Python Concept Check In 7</a>
       </td>
     </tr>
+    <tr>
+      <td style="text-align: left">[11/09/2022 and 11/11/2022]</td>
+      <td style="text-align: left"> 
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBEeJ7_E-9dXxEPTa7Dcb4BULO_bLI8JKCcd-PqurOH9JmCQ/viewform?usp=sf_link" target="_blank">Python Concept Check In 8</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">[11/16/2022 and 11/23/2022]</td>
+      <td style="text-align: left"> 
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBEeJ7_E-9dXxEPTa7Dcb4BULO_bLI8JKCcd-PqurOH9JmCQ/viewform?usp=sf_link" target="_blank">Python Concept Check In 9</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">[11/30/2022 and 12/02/2022]</td>
+      <td style="text-align: left"> 
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9DF7sXWkMyOVBoEDyImvnpTpkQGP9ZxNKlEv_FASuodzX2g/viewform?usp=sf_link" target="_blank">Python Concept Check In 10</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">[12/07/2022 and 12/09/2022]</td>
+      <td style="text-align: left"> 
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSexNyr0xvSj5vIEkPgcbedLypd5eo4PihDzXs3hQ0stqsV7iA/viewform?usp=sf_link" target="_blank">Python Concept Check In 11</a>
+      </td>
+    </tr>
     </tbody>
 </table>

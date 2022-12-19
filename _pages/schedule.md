@@ -101,7 +101,7 @@ title: Course Schedule
       <td style="text-align: left">Week 7 [12/02/2022]</td>
       <td style="text-align: left">
         <ul>
-          <li>Advising Computer Science students by <b><a href="https://www2.seas.gwu.edu/~poorvi/" target="_blank">Prof. Poorvi Vora</a></b></li>
+          <li><a href="https://drive.google.com/drive/folders/1e26FEbCerdPZfllBD_pkYWxoKEAEFQ3h?usp=sharing" target="_blank">Advising Computer Science students</a> by <b><a href="https://www2.seas.gwu.edu/~poorvi/" target="_blank">Prof. Poorvi Vora</a></b></li>
         </ul> 
       </td>
       <td style="text-align: left">In-class Raspberry Pi Lab on Heart rate measurements;</td>
@@ -113,7 +113,7 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: center">Week 8 [12/09/2022]</td>
-      <td style="text-align: center" colspan="2">Student and Alumni Panel; Final Project Presentations Review; Monday after this course!</td>
+      <td style="text-align: center" colspan="2">Python Jeopardy; Student and Alumni Panel; Final Project Presentations</td>
     </tr>
     <tr>
       <td style="text-align: center" colspan="3">NOTE: In accordance with university policy, the final exams will be given during the final exam period and not the last week of the semester</td>
